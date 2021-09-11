@@ -1,2 +1,2 @@
 # Catalog_JEE
-Gestion de livres sous JEE
+Gestion de livres sous Java EE
